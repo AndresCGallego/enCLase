@@ -39,7 +39,9 @@ EJEMPLO DE LISTAS
 *elemento 1
 
   1.elemento 
+  
   *1.sub elemento
+  
   *2.sub elemento 
   
   2. elemento 2
