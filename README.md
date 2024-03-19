@@ -15,9 +15,36 @@ EJEMPLO DE TITULOS
 
 ejemplo de cursiva, negrita y tachado
 esto es un ejemplo de ~~texto~~  alt gr 4 (dos al principio y dos al final
+
 *esto es una italica*
+
 _esto esta en italica_
+
 **esto es negrita**
+
 _esto tambien es negrita_
+
 *puedes**combinar** estilos*
+
 ***combinar***
+
+EJEMPLO DE CARACTERES ESCAPADOS (CUANDO QUIERO QUE UN SIMBOLO O CARACTER NO AFECTE--- POR SU FUNCION)
+\* Esto es un ejemplo de caracteres escapados \*
+
+
+EJEMPLO DE UNA CITA
+> un pais, una civilizacion se puede juzgar por la forma en que trata los animales.
+
+EJEMPLO DE LISTAS
+*elemento 1
+
+  1.elemento 1
+    *sub elemento
+  2. 
+  3.
+  4.
+EJEMPLO DE CHECKBOX
+
+-[] texto sin marcar
+-[x] texto marcado
+  
