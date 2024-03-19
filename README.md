@@ -55,6 +55,14 @@ EJEMPLO DE CHECKBOX
 
 -[x] texto marcado
 
+
+
+EJEMPLO DE BLOQUE DE CODIGO
+
+```bash
+npm instal
+```
+
 EJEMPLO DE EMOJIS
 
 :+1:
