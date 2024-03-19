@@ -38,13 +38,24 @@ EJEMPLO DE UNA CITA
 EJEMPLO DE LISTAS
 *elemento 1
 
-  1.elemento 1
-    *sub elemento
-  2. 
-  3.
+  1.elemento 
+  *1.sub elemento
+  *2.sub elemento 
+  
+  2. elemento 2
+     
   4.
+
+  
 EJEMPLO DE CHECKBOX
 
 -[] texto sin marcar
+
 -[x] texto marcado
+
+EJEMPLO DE EMOJIS
+
+:+1:
+
+
   
