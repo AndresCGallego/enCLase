@@ -60,8 +60,18 @@ EJEMPLO DE CHECKBOX
 EJEMPLO DE BLOQUE DE CODIGO
 
 ```bash
-npm instal
+npm install
+
 ```
+
+```javascript
+function decirHola(){
+console.log('hola')
+}
+```
+
+
+
 
 EJEMPLO DE EMOJIS
 
